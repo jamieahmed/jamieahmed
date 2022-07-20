@@ -5,7 +5,7 @@ import './App.css';
 import Navigation from './Components/Navigation';
 import Home from './Components/Home';
 import About from './Components/About';
-import Skills from './Components/Skills';
+import Skill from "./Components/Skills/Skill";
 import Projects from './Components/Projects';
 import Testimonial from './Components/Testimonial';
 import Footer from './Components/Footer';
@@ -15,7 +15,7 @@ function App() {
       <Navigation />
       <Home />
       <About />
-      <Skills />
+      <Skill />
       <Projects />
       <Testimonial />
       <Footer />

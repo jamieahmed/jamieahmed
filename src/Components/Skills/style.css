@@ -1,74 +1,79 @@
-.resume-title {
-  text-align : center;
-  font-family: "Times New Roman", Times, serif;
-  font-size  : 50px;
-  border-top : 3px solid white;
-  margin     : 0%;
-  padding    : 20px;
-  color      : whitesmoke;
-  text-shadow: 0 -1px 4px #fff, 0 -2px 10px #ff0, 0 -10px 20px #ff8000,
-    0 -18px 40px #f00, 2px 2px 2px rgba(206, 89, 55, 0);
-  background-color: black;
+.resume-controller {
+    background-color: black;
 }
 
-.flex-container {
-  display         : flex;
-  flex-direction  : row;
-  font-size       : 30px;
-  text-align      : center;
-  background-color: black;
+.Resume-title {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    border-top: 3px solid white;
+    margin: 0%;
+    padding: 20px;
+    color: whitesmoke;
+    text-shadow: 0 -1px 4px #fff, 0 -2px 10px #ff0, 0 -10px 20px #ff8000,
+        0 -18px 40px #f00, 2px 2px 2px rgba(206, 89, 55, 0);
+
 }
 
-.flex-item-left {
-  background   : linear-gradient(45deg, #77ce18 0%, #1c6ea4 44%, #c517b8 100%);
-  margin       : 5%;
-  flex         : 50%;
-  border-radius: 5%;
-  height       : 25vh;
-  width        : calc(var(--card-height) / 1.5);
+.resume-container {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    background-color: var(--body-bg);
+    border-bottom: 1px dotted white;
+
 }
 
-.flex-item-center {
-  background   : linear-gradient(45deg, #77ce18 0%, #1c6ea4 44%, #c517b8 100%);
-  margin       : 5%;
-  flex         : 50%;
-  border-radius: 5%;
+.resume-child {
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: 10px 2px 7px rgb(230, 218, 227);
+    text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+    background: linear-gradient(45deg, #77ce18 0%, #1c6ea4 44%, #c517b8 100%);
+    margin: 5%;
+    flex: 50%;
+    border-radius: 5%;
+    text-decoration: none;
+
 }
 
-.flex-item-right {
-  background   : linear-gradient(45deg, #77ce18 0%, #1c6ea4 44%, #c517b8 100%);
-  margin       : 5%;
-  flex         : 50%;
-  border-radius: 5%;
+.resume-child:hover {
+    -webkit-box-shadow: 0px 1px 15px 5px #FDFFF7;
+    box-shadow: 0px 1px 15px 5px #FDFFF7;
+    color: #ffffff;
+    font-weight: bolder;
+    text-decoration: none;
 }
 
-.flex-item-left:hover {
-  background-color: red;
+.icon-title {
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 0 -1px 4px #fff, 0 -2px 10px #ff0, 0 -10px 20px #ff8000,
+        0 -18px 40px #f00, 2px 2px 2px rgba(206, 89, 55, 0);
 }
 
-.flex-item-center:hover {
-  background-color: red;
+.resume-images {
+    border-radius: 50%;
+    padding: 25px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
 }
 
-.flex-item-right:hover {
-  background-color: red;
+/* card design start here */
+.modal-content {
+    background-color: wheat;
 }
 
-@media (max-width: 800px) {
-  .flex-container {
-    flex-direction: column;
-  }
+.modal-header {
+    color: rgb(255, 7, 7);
 }
 
-.skill-title {
-  color      : white;
-  font-weight: bolder;
-  padding    : 20px 5px;
+.modal-body {
+    color: #1c6ea4;
 }
 
-.skill-logo {
-  width        : 100px;
-  height       : 100px;
-  border-radius: 50%;
-  border       : 2px solid white;
+.modal-footer {
+    text-align: center;
 }
