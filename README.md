@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Wellcome & Thank you for visiting my GitHub.</1>
     <hr>
-   <img align="center" src="https://imgur.com/UXehMAa" width="100%" height='auto'>
+   <img align="center" src="https://imgur.com/UXehMAa" width="100%">
    <br>
   <br>
   <div>
