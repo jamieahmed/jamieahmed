@@ -10,6 +10,17 @@
 </div>
 
 <hr>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jamieahmed&theme=dracula&show_icons=true&hide_border=true&count_private=true" />  </a>
+  <br>
+
+  <br>
+  
+  <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamieahmed&theme=dracula&hide_border=true" />  </a>
+  <br>
+  <br>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamieahmed&theme=dracula&show_icons=true&hide_border=true&layout=compact" />  </a>
+  
+<hr>
   <div align="center">
      <h3>Technologies,frameworks and tools proficiencie with:</h3>
       <div>
