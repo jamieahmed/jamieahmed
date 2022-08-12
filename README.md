@@ -1,12 +1,12 @@
+
 <div align="center">
-  <h1>Wellcome & Thank you for visiting my GitHub.</1>
-    <hr>
-   <img align="center" src="https://imgur.com/UXehMAa" width="100%">
+  <h6>Wellcome & Thank you for visiting my GitHub.</h6>
+   <img align="center" src="https://imgur.com/UXehMAa" width="yyy">
    <br>
   <br>
   <div>
-   <h2>A little about me:</h2>
-   <p><strong>I'm Jamie Ahmed,</strong>I'm Software Engineer with management skills who is passionate about developing full-stack, scalable web applications. I design,    develop and maintain fully-fledged websites and applications.<p>
+  <h5>A little about me:</h5>
+   <p><strong>I'm Jamie Ahmed,</strong><small>I'm Software Engineer with management skills who is passionate about developing full-stack, scalable web applications. I design, develop and maintain fully-fledged websites and applications.</small><p>
 </div>
 
 <hr>
