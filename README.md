@@ -21,7 +21,7 @@
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamieahmed&theme=dracula&show_icons=true&hide_border=true&layout=compact" />  </a>
   
 <hr>
-  <div align="center">
+  <div>
      <h3>Technologies,frameworks and tools proficiencie with:</h3>
       <div>
         <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
