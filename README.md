@@ -10,7 +10,7 @@
 </div>
 
 
-
+- [Front-end Repo](https://github.com/jamieahmed/developer-chat-app-front-end)
 
   <div align="center">
 
