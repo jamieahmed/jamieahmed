@@ -13,14 +13,7 @@
 
 
   <div align="center">
-    <h3 align="center">Contact Me :</h3>
-    <a href="https://jamieahmed-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" /> 
-     </a>
-    <a href="https://www.linkedin.com/in/jamie-ahmed-developer/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
-    <a href="https://github.com/jamieahmed"><img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>  
-    <a href="mailto: jamieahmed273@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>  
-  </div>
-<hr>
+
 
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jamieahmed&theme=dracula&show_icons=true&hide_border=true&count_private=true" />  </a>
   <br>
