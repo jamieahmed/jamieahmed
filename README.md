@@ -11,8 +11,8 @@
 
 
 
-<hr>
-  <div align="start">
+
+  <div align="center">
     <h3 align="center">Contact Me :</h3>
     <a href="https://jamieahmed-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" /> 
      </a>
