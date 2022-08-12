@@ -1,3 +1,14 @@
+<div align="center">
+  <h1>Wellcome & Thank you for visiting my GitHub.</1>
+    <hr>
+   <img align="center" src="https://imgur.com/UXehMAa" width="100%" height='auto'>
+   <br>
+  <br>
+  <div>
+   <h2>A little about me:</h2>
+   <p><strong>I'm Jamie Ahmed,</strong>I'm Software Engineer with management skills who is passionate about developing full-stack, scalable web applications. I design,    develop and maintain fully-fledged websites and applications.<p>
+</div>
+
 <hr>
   <div align="center">
      <h3>Technologies,frameworks and tools proficiencie with:</h3>
