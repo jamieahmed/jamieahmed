@@ -5,7 +5,7 @@
    <br>
   <br>
   <div>
-  <h5>A little about me:</h5>
+  <h3>A little about me:</h3>
    <p><strong>I'm Jamie Ahmed,</strong><small>I'm Software Engineer with management skills who is passionate about developing full-stack, scalable web applications. I design, develop and maintain fully-fledged websites and applications.</small><p>
 </div>
 
