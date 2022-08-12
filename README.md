@@ -1,6 +1,6 @@
 <div align="center">
   <h4>Wellcome & Thank you for visiting my GitHub.</h4>
-   <img align="center" src="https://imgur.com/UXehMAa" width="100%">
+    <img align="center" src="https://i.imgur.com/UXehMAa.jpg">
    <br>
   <br>
   <hr>
