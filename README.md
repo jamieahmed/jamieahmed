@@ -6,7 +6,7 @@
   <hr>
   <div>
   <h3 align="center">About Me:</h3>
-   <p><strong>I'm Jamie Ahmed,</strong><small>I'm Software Engineer with management skills who is passionate about developing full-stack, scalable web applications. I design, develop and maintain fully-fledged websites and applications.</small><p>
+   <p><small>I'm <strong>Software Engineer</strong> with management skills who is passionate about developing full-stack, scalable web applications. I design, develop and maintain fully-fledged websites and applications.</small><p>
 </div>
 
   <hr>
