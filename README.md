@@ -45,7 +45,7 @@ business success.
 ## Design Tools:
 
 ### Figma
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black)
+[Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black)
 
 ### Adobe XD
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white&labelColor=black)
