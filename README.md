@@ -87,5 +87,9 @@ business success.
 ## Other Skills:
 ### Version Control/Collaboration:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
-![
+![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+
+### Agile/Scrum Development Methodology:
+![Agile](https://img.shields.io/badge/-Agile-47C5FB?style=for-the-badge&logo=agile&logoColor=white&labelColor=black)
+![Scrum](https://img.shields.io/badge/-Scrum-3FCEC2?style=for-the-badge&logo=scrum&logoColor=white&labelColor=black)
 
