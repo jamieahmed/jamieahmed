@@ -43,10 +43,15 @@ business success.
 
 <h3>Technologies, frameworks, and tools proficiency with:</h3>
 ## Design Tools:
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white&labelColor=black)
-![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white&labelColor=black)
 
+### Figma
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black)
+
+### Adobe XD
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white&labelColor=black)
+
+### Sketch
+![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white&labelColor=black)
 
 ### Front-end Development:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
