@@ -59,10 +59,33 @@ business success.
 ![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-3DDC84?style=for-the-badge&logoColor=white&labelColor=black)
 ![Cross-browser Compatibility](https://img.shields.io/badge/-Cross--browser%20Compatibility-0078D7?style=for-the-badge&logoColor=white&labelColor=black)
 
-### Back-end Development:
+## Backend Development:
+
+### Node.js:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
-![API Development](https://img.shields.io/badge/-API%20Development-ED8B00?style=for-the-badge&logoColor=white&labelColor=black)
-![Microservice Architecture](https://img.shields.io
+![Microservice Architecture](https://img.shields.io/badge/-Microservice_Architecture-000000?style=for-the-badge&logoColor=white&labelColor=black)
+![RESTful API Design](https://img.shields.io/badge/-RESTful_API_Design-000000?style=for-the-badge&logoColor=white&labelColor=black)
+![GraphQL API Design](https://img.shields.io/badge/-GraphQL_API_Design-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black)
+
+### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
+
+### API Development:
+![Microservice Architecture](https://img.shields.io/badge/-Microservice_Architecture-000000?style=for-the-badge&logoColor=white&labelColor=black)
+![RESTful API Design](https://img.shields.io/badge/-RESTful_API_Design-000000?style=for-the-badge&logoColor=white&labelColor=black)
+![GraphQL API Design](https://img.shields.io/badge/-GraphQL_API_Design-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=black)
+
+## Other Skills:
+### Version Control/Collaboration:
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
+![
+
