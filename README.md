@@ -68,19 +68,5 @@ business success.
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&labelColor=black)
-### Back-end Development:
-<div align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge" alt="Express.js">
-  <img src="https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/-Python3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</div>
-
-- <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">: A JavaScript runtime built on Chrome's V8 JavaScript engine, used for building scalable and high-performance network applications.
-- <img src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square">: A fast, unopinionated, minimalist web framework for Node.js, used for building APIs and web applications.
-- <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=47A248">: A cross-platform document-oriented NoSQL database used for storing and querying large volumes of data.
-- <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">: A mobile and web application development platform, used for building and hosting apps, and managing authentication, databases, and storage.
-- <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=white">: A high-level, interpreted programming language used for web development, data analysis, machine learning, and artificial intelligence.
 
 
